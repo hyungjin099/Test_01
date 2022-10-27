@@ -7,7 +7,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test01Application {
 
 	public static void main(String[] args) {
+		//집에서 작업한 주석!!
 		SpringApplication.run(Test01Application.class, args);
 	}
 
 }
+
+
+
+
